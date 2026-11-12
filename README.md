@@ -1,14 +1,20 @@
 # Philadelphia Jobs
 
-Open roles in Philadelphia: 18 roles at 8 companies, each posted in the last 14 days and still open. **Updated every day by [Warmada](https://warmada.com/?utm_source=github&utm_medium=list&utm_campaign=philadelphia).** Last updated 2026-11-11.
+Open roles in Philadelphia: 19 roles at 9 companies, each posted in the last 14 days and still open. **Updated every day by [Warmada](https://warmada.com/?utm_source=github&utm_medium=list&utm_campaign=philadelphia).** Last updated 2026-11-12.
 
-All 18 are listed below. Browse the newest on [warmada.com/jobs/philadelphia](https://warmada.com/jobs/philadelphia?utm_source=github&utm_medium=list&utm_campaign=philadelphia).
+All 19 are listed below. Browse the newest on [warmada.com/jobs/philadelphia](https://warmada.com/jobs/philadelphia?utm_source=github&utm_medium=list&utm_campaign=philadelphia).
 
-**By role:** Hardware Engineering (1) · Marketing (2) · Sales (4) · Customer Success (1) · Operations (3) · Finance (1) · Legal & Compliance (1) · Other (5)
+**By role:** Software Engineering (1) · Hardware Engineering (1) · Marketing (2) · Sales (4) · Customer Success (1) · Operations (3) · Finance (1) · Legal & Compliance (1) · Other (5)
 
 **How it is built.** Warmada reads public company job boards such as Greenhouse, Ashby, Lever and Workday every day and keeps the postings that name a US location. A role is on this list when its posting names Philadelphia. The section comes from keywords in the title, so a role can land in the wrong one. Nobody sorts this list by hand. Apply on the employer's own site; "Find the hiring manager" opens the posting on Warmada, which suggests who is likely hiring for it.
 
 A bad listing? Email hello@warmada.com with the link.
+
+## Software Engineering (1)
+
+| Company | Role | Location | Posted | Links |
+| --- | --- | --- | --- | --- |
+| [New Relic](https://warmada.com/companies/new-relic?utm_source=github&utm_medium=list&utm_campaign=philadelphia) | Software Engineer-Infrastructure | Austin, Texas, USA; Chicago, Illinois, USA; Columbus, Ohio, USA; Dallas, Texas, USA; Detroit, Michigan, USA; Houston, Texas, USA; Las Vegas, Nevada, USA; Miami, Florida, USA; Milwaukee, Wisconsin, USA; Orlando, Florida, USA; Philadelphia, Pennsylvania, USA; Phoenix, Arizona, USA; Portland, Oregon, USA; Salt Lake City, Utah, USA; St. Louis, Missouri, USA | Nov 11 | [Apply](https://job-boards.greenhouse.io/newrelic/jobs/5479397008) · [Find the hiring manager](https://warmada.com/job/new-relic-software-engineer-infrastructure-d7695177-8c9d-43ae-b2a7-186c2c34a628?utm_source=github&utm_medium=list&utm_campaign=philadelphia) |
 
 ## Hardware Engineering (1)
 
@@ -62,8 +68,8 @@ A bad listing? Email hello@warmada.com with the link.
 
 | Company | Role | Location | Posted | Links |
 | --- | --- | --- | --- | --- |
-| [Blank Street](https://warmada.com/companies/blank-street?utm_source=github&utm_medium=list&utm_campaign=philadelphia) | Shift Lead \| Philadelphia | Philadelphia, PA | Nov 9 | [Apply](https://job-boards.greenhouse.io/blankstreet/jobs/8198906003) · [Find the hiring manager](https://warmada.com/job/blank-street-shift-lead-philadelphia-d05655fa-4788-4247-a607-781a980762cc?utm_source=github&utm_medium=list&utm_campaign=philadelphia) |
-| [Blank Street](https://warmada.com/companies/blank-street?utm_source=github&utm_medium=list&utm_campaign=philadelphia) | Barista \| Philadelphia | Philadelphia, PA | Nov 9 | [Apply](https://job-boards.greenhouse.io/blankstreet/jobs/8198898003) · [Find the hiring manager](https://warmada.com/job/blank-street-barista-philadelphia-128c61e7-062a-4f6e-9603-f5d91ea0264c?utm_source=github&utm_medium=list&utm_campaign=philadelphia) |
+| [Blank Street](https://warmada.com/companies/blank-street?utm_source=github&utm_medium=list&utm_campaign=philadelphia) | Shift Lead \| Philadelphia | Philadelphia, PA | Nov 11 | [Apply](https://job-boards.greenhouse.io/blankstreet/jobs/8201372003) · [Find the hiring manager](https://warmada.com/job/blank-street-shift-lead-philadelphia-2ee495f6-0fe8-471d-8740-0a741888f9e8?utm_source=github&utm_medium=list&utm_campaign=philadelphia) |
+| [Blank Street](https://warmada.com/companies/blank-street?utm_source=github&utm_medium=list&utm_campaign=philadelphia) | Barista \| Philadelphia | Philadelphia, PA | Nov 11 | [Apply](https://job-boards.greenhouse.io/blankstreet/jobs/8201370003) · [Find the hiring manager](https://warmada.com/job/blank-street-barista-philadelphia-a3c0c478-a17a-4312-b000-a76d9833bfb5?utm_source=github&utm_medium=list&utm_campaign=philadelphia) |
 | [Bozzuto](https://warmada.com/companies/bozzuto?utm_source=github&utm_medium=list&utm_campaign=philadelphia) | Assistant Maintenance Manager | Philadelphia, PA, 19123 | Nov 5 | [Apply](https://www.bozzuto.com/careers/job-search/5471272008/?gh_jid=5471272008) · [Find the hiring manager](https://warmada.com/job/bozzuto-assistant-maintenance-manager-639931d4-64a2-475e-988c-d09acbe9181e?utm_source=github&utm_medium=list&utm_campaign=philadelphia) |
 | [2020 Companies, Inc.](https://warmada.com/companies/2020-companies-inc?utm_source=github&utm_medium=list&utm_campaign=philadelphia) | Google TV Experience Manager | Philadelphia, PA | Nov 5 | [Apply](https://2020companies.wd1.myworkdayjobs.com/External_Careers/job/Philadelphia-PA/Google-TV-Experience-Manager_REQ_116251) · [Find the hiring manager](https://warmada.com/job/2020-companies-inc-google-tv-experience-manager-cfff681b-34dd-40fb-bfb6-34e9ef12379c?utm_source=github&utm_medium=list&utm_campaign=philadelphia) |
 | [Natera](https://warmada.com/companies/natera?utm_source=github&utm_medium=list&utm_campaign=philadelphia) | Director National Accounts | New York City, NY; Newark, NJ; Philadelphia, PA | Nov 3 | [Apply](https://job-boards.greenhouse.io/natera/jobs/6242576004) · [Find the hiring manager](https://warmada.com/job/natera-director-national-accounts-dd85040a-29a5-4e67-b6eb-2b9dc24e366c?utm_source=github&utm_medium=list&utm_campaign=philadelphia) |
