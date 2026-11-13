@@ -1,20 +1,14 @@
 # Philadelphia Jobs
 
-Open roles in Philadelphia: 19 roles at 9 companies, each posted in the last 14 days and still open. **Updated every day by [Warmada](https://warmada.com/?utm_source=github&utm_medium=list&utm_campaign=philadelphia).** Last updated 2026-11-12.
+Open roles in Philadelphia: 19 roles at 8 companies, each posted in the last 14 days and still open. **Updated every day by [Warmada](https://warmada.com/?utm_source=github&utm_medium=list&utm_campaign=philadelphia).** Last updated 2026-11-13.
 
 All 19 are listed below. Browse the newest on [warmada.com/jobs/philadelphia](https://warmada.com/jobs/philadelphia?utm_source=github&utm_medium=list&utm_campaign=philadelphia).
 
-**By role:** Software Engineering (1) · Hardware Engineering (1) · Marketing (2) · Sales (4) · Customer Success (1) · Operations (3) · Finance (1) · Legal & Compliance (1) · Other (5)
+**By role:** Hardware Engineering (1) · Marketing (3) · Sales (4) · Customer Success (1) · Operations (3) · Finance (1) · Other (6)
 
 **How it is built.** Warmada reads public company job boards such as Greenhouse, Ashby, Lever and Workday every day and keeps the postings that name a US location. A role is on this list when its posting names Philadelphia. The section comes from keywords in the title, so a role can land in the wrong one. Nobody sorts this list by hand. Apply on the employer's own site; "Find the hiring manager" opens the posting on Warmada, which suggests who is likely hiring for it.
 
 A bad listing? Email hello@warmada.com with the link.
-
-## Software Engineering (1)
-
-| Company | Role | Location | Posted | Links |
-| --- | --- | --- | --- | --- |
-| [New Relic](https://warmada.com/companies/new-relic?utm_source=github&utm_medium=list&utm_campaign=philadelphia) | Software Engineer-Infrastructure | Austin, Texas, USA; Chicago, Illinois, USA; Columbus, Ohio, USA; Dallas, Texas, USA; Detroit, Michigan, USA; Houston, Texas, USA; Las Vegas, Nevada, USA; Miami, Florida, USA; Milwaukee, Wisconsin, USA; Orlando, Florida, USA; Philadelphia, Pennsylvania, USA; Phoenix, Arizona, USA; Portland, Oregon, USA; Salt Lake City, Utah, USA; St. Louis, Missouri, USA | Nov 11 | [Apply](https://job-boards.greenhouse.io/newrelic/jobs/5479397008) · [Find the hiring manager](https://warmada.com/job/new-relic-software-engineer-infrastructure-d7695177-8c9d-43ae-b2a7-186c2c34a628?utm_source=github&utm_medium=list&utm_campaign=philadelphia) |
 
 ## Hardware Engineering (1)
 
@@ -22,10 +16,11 @@ A bad listing? Email hello@warmada.com with the link.
 | --- | --- | --- | --- | --- |
 | [FORT Robotics](https://warmada.com/companies/fort-robotics?utm_source=github&utm_medium=list&utm_campaign=philadelphia) | Embedded Test and Validation Engineer | Philadelphia, PA | Nov 2 | [Apply](https://job-boards.greenhouse.io/fortrobotics/jobs/4749921005) · [Find the hiring manager](https://warmada.com/job/fort-robotics-embedded-test-and-validation-engineer-c84b1ab9-2542-497f-ad0d-30555e063dfc?utm_source=github&utm_medium=list&utm_campaign=philadelphia) |
 
-## Marketing (2)
+## Marketing (3)
 
 | Company | Role | Location | Posted | Links |
 | --- | --- | --- | --- | --- |
+| [Fivetran](https://warmada.com/companies/fivetran?utm_source=github&utm_medium=list&utm_campaign=philadelphia) | Enterprise Demand Generation Lead — North America | USA - Philadelphia (dbt) | Nov 12 | [Apply](https://www.fivetran.com/careers/job?gh_jid=8202852003) · [Find the hiring manager](https://warmada.com/job/fivetran-enterprise-demand-generation-lead-north-america-c4a94d98-0c03-4159-9267-54cf999453d4?utm_source=github&utm_medium=list&utm_campaign=philadelphia) |
 | [Fivetran](https://warmada.com/companies/fivetran?utm_source=github&utm_medium=list&utm_campaign=philadelphia) | Director, Content Marketing | USA - Philadelphia (dbt) | Nov 9 | [Apply](https://www.fivetran.com/careers/job?gh_jid=8199480003) · [Find the hiring manager](https://warmada.com/job/fivetran-director-content-marketing-fe7b9493-ebf1-44ea-a02f-eae2df28e8ed?utm_source=github&utm_medium=list&utm_campaign=philadelphia) |
 | Inizio Evoke | Vice President, Social Media | New York, New York; Philadelphia, Pennsylvania | Nov 6 | [Apply](https://www.inizioevoke.com/vacancy/inizioevoke/8357306?gh_jid=8357306) · [Find the hiring manager](https://warmada.com/job/inizio-evoke-vice-president-social-media-86c4f93d-b243-4974-8237-e6be615f72f8?utm_source=github&utm_medium=list&utm_campaign=philadelphia) |
 
@@ -58,16 +53,11 @@ A bad listing? Email hello@warmada.com with the link.
 | --- | --- | --- | --- | --- |
 | [FORT Robotics](https://warmada.com/companies/fort-robotics?utm_source=github&utm_medium=list&utm_campaign=philadelphia) | VP, Accounting | Philadelphia, Pennsylvania, United States, Remote | Nov 10 | [Apply](https://job-boards.greenhouse.io/fortrobotics/jobs/4753095005) · [Find the hiring manager](https://warmada.com/job/fort-robotics-vp-accounting-719d90cd-1742-4707-9764-53256d775452?utm_source=github&utm_medium=list&utm_campaign=philadelphia) |
 
-## Legal & Compliance (1)
+## Other (6)
 
 | Company | Role | Location | Posted | Links |
 | --- | --- | --- | --- | --- |
-| [HealthVerity](https://warmada.com/companies/healthverity?utm_source=github&utm_medium=list&utm_campaign=philadelphia) | Vice President, Associate General Counsel | Philadelphia, PA | Oct 30 | [Apply](https://healthverity.com/careers/jobs/?gh_jid=5468004008) · [Find the hiring manager](https://warmada.com/job/healthverity-vice-president-associate-general-counsel-aa8f7fe2-6b09-4747-8e8f-cd176abf3d80?utm_source=github&utm_medium=list&utm_campaign=philadelphia) |
-
-## Other (5)
-
-| Company | Role | Location | Posted | Links |
-| --- | --- | --- | --- | --- |
+| Inizio Evoke | Media Relations Manager | New York, New York; Philadelphia, Pennsylvania | Nov 12 | [Apply](https://www.inizioevoke.com/vacancy/inizioevoke/8358808?gh_jid=8358808) · [Find the hiring manager](https://warmada.com/job/inizio-evoke-media-relations-manager-1166c654-d0dc-4349-989d-4cafc0522760?utm_source=github&utm_medium=list&utm_campaign=philadelphia) |
 | [Blank Street](https://warmada.com/companies/blank-street?utm_source=github&utm_medium=list&utm_campaign=philadelphia) | Shift Lead \| Philadelphia | Philadelphia, PA | Nov 11 | [Apply](https://job-boards.greenhouse.io/blankstreet/jobs/8201372003) · [Find the hiring manager](https://warmada.com/job/blank-street-shift-lead-philadelphia-2ee495f6-0fe8-471d-8740-0a741888f9e8?utm_source=github&utm_medium=list&utm_campaign=philadelphia) |
 | [Blank Street](https://warmada.com/companies/blank-street?utm_source=github&utm_medium=list&utm_campaign=philadelphia) | Barista \| Philadelphia | Philadelphia, PA | Nov 11 | [Apply](https://job-boards.greenhouse.io/blankstreet/jobs/8201370003) · [Find the hiring manager](https://warmada.com/job/blank-street-barista-philadelphia-a3c0c478-a17a-4312-b000-a76d9833bfb5?utm_source=github&utm_medium=list&utm_campaign=philadelphia) |
 | [Bozzuto](https://warmada.com/companies/bozzuto?utm_source=github&utm_medium=list&utm_campaign=philadelphia) | Assistant Maintenance Manager | Philadelphia, PA, 19123 | Nov 5 | [Apply](https://www.bozzuto.com/careers/job-search/5471272008/?gh_jid=5471272008) · [Find the hiring manager](https://warmada.com/job/bozzuto-assistant-maintenance-manager-639931d4-64a2-475e-988c-d09acbe9181e?utm_source=github&utm_medium=list&utm_campaign=philadelphia) |
