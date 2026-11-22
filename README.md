@@ -1,6 +1,6 @@
 # Philadelphia Jobs
 
-Open roles in Philadelphia: 19 roles at 12 companies, each posted in the last 14 days and still open. **Updated every day by [Warmada](https://warmada.com/?utm_source=github&utm_medium=list&utm_campaign=philadelphia).** Last updated 2026-11-21.
+Open roles in Philadelphia: 19 roles at 12 companies, each posted in the last 14 days and still open. **Updated every day by [Warmada](https://warmada.com/?utm_source=github&utm_medium=list&utm_campaign=philadelphia).** Last updated 2026-11-22.
 
 All 19 are listed below. Browse the newest on [warmada.com/jobs/philadelphia](https://warmada.com/jobs/philadelphia?utm_source=github&utm_medium=list&utm_campaign=philadelphia).
 
