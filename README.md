@@ -1,10 +1,10 @@
 # Philadelphia Jobs
 
-Open roles in Philadelphia: 25 roles at 15 companies, each posted in the last 14 days and still open. **Updated every day by [Warmada](https://warmada.com/?utm_source=github&utm_medium=list&utm_campaign=philadelphia).** Last updated 2026-11-26.
+Open roles in Philadelphia: 21 roles at 13 companies, each posted in the last 14 days and still open. **Updated every day by [Warmada](https://warmada.com/?utm_source=github&utm_medium=list&utm_campaign=philadelphia).** Last updated 2026-11-27.
 
-All 25 are listed below. Browse the newest on [warmada.com/jobs/philadelphia](https://warmada.com/jobs/philadelphia?utm_source=github&utm_medium=list&utm_campaign=philadelphia).
+All 21 are listed below. Browse the newest on [warmada.com/jobs/philadelphia](https://warmada.com/jobs/philadelphia?utm_source=github&utm_medium=list&utm_campaign=philadelphia).
 
-**By role:** Software Engineering (2) · Product Management (1) · Marketing (3) · Sales (5) · Operations (1) · Finance (1) · Other (12)
+**By role:** Software Engineering (2) · Product Management (1) · Sales (5) · Operations (1) · Finance (1) · Other (11)
 
 **How it is built.** Warmada reads public company job boards such as Greenhouse, Ashby, Lever and Workday every day and keeps the postings that name a US location. A role is on this list when its posting names Philadelphia. The section comes from keywords in the title, so a role can land in the wrong one. Nobody sorts this list by hand. Apply on the employer's own site; "Find the hiring manager" opens the posting on Warmada, which suggests who is likely hiring for it.
 
@@ -22,14 +22,6 @@ A bad listing? Email hello@warmada.com with the link.
 | Company | Role | Location | Posted | Links |
 | --- | --- | --- | --- | --- |
 | [Fivetran](https://warmada.com/companies/fivetran?utm_source=github&utm_medium=list&utm_campaign=philadelphia) | Senior Product Manager, Orchestration | Oakland, California, United States; Remote, Colorado, United States, AMER; USA - Austin (dbt); USA - New York; USA - Philadelphia (dbt) | Nov 23 | [Apply](https://www.fivetran.com/careers/job?gh_jid=7818210003) · [Find the hiring manager](https://warmada.com/job/fivetran-senior-product-manager-orchestration-e396d0de-8373-4e2a-a409-9ef5e1a0628d?utm_source=github&utm_medium=list&utm_campaign=philadelphia) |
-
-## Marketing (3)
-
-| Company | Role | Location | Posted | Links |
-| --- | --- | --- | --- | --- |
-| [MongoDB](https://warmada.com/companies/mongodb?utm_source=github&utm_medium=list&utm_campaign=philadelphia) | Startup Lifecycle Marketing Lead | Atlanta; Austin; Boston; Chicago; Denver; Miami; New York City; Philadelphia; Raleigh; San Francisco; Tampa; Washington DC | Nov 12 | [Apply](https://www.mongodb.com/careers/job/?gh_jid=8367103) · [Find the hiring manager](https://warmada.com/job/mongodb-startup-lifecycle-marketing-lead-2a91d3d7-390e-40a0-a930-430d362114f1?utm_source=github&utm_medium=list&utm_campaign=philadelphia) |
-| [Fivetran](https://warmada.com/companies/fivetran?utm_source=github&utm_medium=list&utm_campaign=philadelphia) | Enterprise Demand Generation Lead, North America | USA - Philadelphia (dbt) | Nov 12 | [Apply](https://www.fivetran.com/careers/job?gh_jid=8202852003) · [Find the hiring manager](https://warmada.com/job/fivetran-enterprise-demand-generation-lead-north-america-c4a94d98-0c03-4159-9267-54cf999453d4?utm_source=github&utm_medium=list&utm_campaign=philadelphia) |
-| [FORT Robotics](https://warmada.com/companies/fort-robotics?utm_source=github&utm_medium=list&utm_campaign=philadelphia) | VP of Marketing | Philadelphia, PA | Nov 12 | [Apply](https://job-boards.greenhouse.io/fortrobotics/jobs/4753782005) · [Find the hiring manager](https://warmada.com/job/fort-robotics-vp-of-marketing-0a294e25-0a9c-4c6c-9fd6-ca8b5e8d0279?utm_source=github&utm_medium=list&utm_campaign=philadelphia) |
 
 ## Sales (5)
 
@@ -53,7 +45,7 @@ A bad listing? Email hello@warmada.com with the link.
 | --- | --- | --- | --- | --- |
 | [FORT Robotics](https://warmada.com/companies/fort-robotics?utm_source=github&utm_medium=list&utm_campaign=philadelphia) | Accounting Manager | Philadelphia, PA | Nov 16 | [Apply](https://job-boards.greenhouse.io/fortrobotics/jobs/4754619005) · [Find the hiring manager](https://warmada.com/job/fort-robotics-accounting-manager-8ae145ef-e66b-4113-8a48-2ef0ced43dea?utm_source=github&utm_medium=list&utm_campaign=philadelphia) |
 
-## Other (12)
+## Other (11)
 
 | Company | Role | Location | Posted | Links |
 | --- | --- | --- | --- | --- |
@@ -63,9 +55,8 @@ A bad listing? Email hello@warmada.com with the link.
 | [HealthVerity](https://warmada.com/companies/healthverity?utm_source=github&utm_medium=list&utm_campaign=philadelphia) | Pricing Analyst | Philadelphia, PA | Nov 25 | [Apply](https://healthverity.com/careers/jobs/?gh_jid=5494359008) · [Find the hiring manager](https://warmada.com/job/healthverity-pricing-analyst-4773a39f-a41e-427a-8e1e-93021a79653a?utm_source=github&utm_medium=list&utm_campaign=philadelphia) |
 | Playworks | Pro Trainer, Pennsylvania | Philadelphia, PA | Nov 25 | [Apply](https://www.playworks.org/about/careers/all-open-positions/job/8415792?gh_jid=8415792) · [Find the hiring manager](https://warmada.com/job/playworks-pro-trainer-pennsylvania-a136b620-2fdd-4923-96e5-112029ac2561?utm_source=github&utm_medium=list&utm_campaign=philadelphia) |
 | [Bozzuto](https://warmada.com/companies/bozzuto?utm_source=github&utm_medium=list&utm_campaign=philadelphia) | Multi-Site Maintenance Technician | Philadelphia, PA, 19130 | Nov 24 | [Apply](https://www.bozzuto.com/careers/job-search/5493657008/?gh_jid=5493657008) · [Find the hiring manager](https://warmada.com/job/bozzuto-multi-site-maintenance-technician-3f196a7c-3010-45f6-856a-23588db8ff77?utm_source=github&utm_medium=list&utm_campaign=philadelphia) |
-| [Inizio Evoke](https://warmada.com/companies/inizio-evoke?utm_source=github&utm_medium=list&utm_campaign=philadelphia) | Senior Omnichannel Strategist | Chicago, Illinois; New York, New York; Philadelphia, Pennsylvania | Nov 23 | [Apply](https://www.inizioevoke.com/vacancy/inizioevoke/8397095?gh_jid=8397095) · [Find the hiring manager](https://warmada.com/job/inizio-evoke-senior-omnichannel-strategist-626812dd-9164-40c8-baed-2b8f6ef1f9b9?utm_source=github&utm_medium=list&utm_campaign=philadelphia) |
+| Inizio Evoke | Senior Omnichannel Strategist | Chicago, Illinois; New York, New York; Philadelphia, Pennsylvania | Nov 23 | [Apply](https://www.inizioevoke.com/vacancy/inizioevoke/8397095?gh_jid=8397095) · [Find the hiring manager](https://warmada.com/job/inizio-evoke-senior-omnichannel-strategist-626812dd-9164-40c8-baed-2b8f6ef1f9b9?utm_source=github&utm_medium=list&utm_campaign=philadelphia) |
 | [Bozzuto](https://warmada.com/companies/bozzuto?utm_source=github&utm_medium=list&utm_campaign=philadelphia) | Senior Property Manager | Philadelphia, PA, 19123 | Nov 18 | [Apply](https://www.bozzuto.com/careers/job-search/5486958008/?gh_jid=5486958008) · [Find the hiring manager](https://warmada.com/job/bozzuto-senior-property-manager-62e98d96-67fb-45be-8554-cc38780762d6?utm_source=github&utm_medium=list&utm_campaign=philadelphia) |
 | [Verifone](https://warmada.com/companies/verifone?utm_source=github&utm_medium=list&utm_campaign=philadelphia) | Senior Campaign Manger | Atlanta, Georgia, United States; Clearwater, Florida, United States; Philadelphia, Pennsylvania, United States | Nov 16 | [Apply](https://job-boards.greenhouse.io/verifone/jobs/8201492003) · [Find the hiring manager](https://warmada.com/job/verifone-senior-campaign-manger-6f1a0ad9-9d28-47c9-9940-d1bede3d274c?utm_source=github&utm_medium=list&utm_campaign=philadelphia) |
 | [The Lumber Manufactory](https://warmada.com/companies/the-lumber-manufactory?utm_source=github&utm_medium=list&utm_campaign=philadelphia) | Corporate IT Manager | Philadelphia | Nov 16 | [Apply](https://jobs.ashbyhq.com/lumbermanufactory/ef4cde24-2e5b-4f8c-ad1e-93de005c54d9) · [Find the hiring manager](https://warmada.com/job/the-lumber-manufactory-corporate-it-manager-683f1378-c983-44aa-8af1-ed4677acf16e?utm_source=github&utm_medium=list&utm_campaign=philadelphia) |
 | [HealthVerity](https://warmada.com/companies/healthverity?utm_source=github&utm_medium=list&utm_campaign=philadelphia) | Chief Client Officer | Philadelphia, PA | Nov 13 | [Apply](https://healthverity.com/careers/jobs/?gh_jid=5482157008) · [Find the hiring manager](https://warmada.com/job/healthverity-chief-client-officer-250e3228-2ad1-4abd-8e2c-e65bb889f518?utm_source=github&utm_medium=list&utm_campaign=philadelphia) |
-| Pariveda | Technical Consulting Manager | Philadelphia | Nov 13 | [Apply](https://jobs.ashbyhq.com/pariveda/9db1a141-f1d1-48da-8da5-0e503ee82cea) · [Find the hiring manager](https://warmada.com/job/pariveda-technical-consulting-manager-17a6d01c-07bd-4883-a1e5-865b8efbf7b9?utm_source=github&utm_medium=list&utm_campaign=philadelphia) |
